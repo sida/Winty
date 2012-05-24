@@ -1,0 +1,17 @@
+■TinySchemeをベースにしたWindowsGUIアプリ
+
+ビルド環境：VisualStudio2008(Express版も可)
+
+WindowsAPIを実行するI/Fを持つ。
+使い方については
+　Winty\init.scm
+　Winty\winapi.scm
+を参照のこと
+
+(load "demo.scm")
+で簡単なグラフィック表示のデモを実行する。
+
+TODO:
+　ドキュメント作成
+　構造体を引数にもつWindowsAPIをコールの仕方を考える
+

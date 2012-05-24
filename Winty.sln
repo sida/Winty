@@ -1,0 +1,37 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Winty", "Winty\Winty.vcproj", "{C6FA53FB-BACA-4C5E-9806-7FE1F1BA43BF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "scm_system", "scm_system\scm_system.vcproj", "{4AC99776-3638-49A3-9CA8-510EEC9B145D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "scm_memory", "scm_memory\scm_memory.vcproj", "{9F836E59-0763-41CB-BF25-2802C8DFD9A1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "scm_winapi_if", "scm_winapi_if\scm_winapi_if.vcproj", "{E092F50D-0449-462B-A2B4-2E9B57BC1F87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6FA53FB-BACA-4C5E-9806-7FE1F1BA43BF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C6FA53FB-BACA-4C5E-9806-7FE1F1BA43BF}.Debug|Win32.Build.0 = Debug|Win32
+		{C6FA53FB-BACA-4C5E-9806-7FE1F1BA43BF}.Release|Win32.ActiveCfg = Release|Win32
+		{C6FA53FB-BACA-4C5E-9806-7FE1F1BA43BF}.Release|Win32.Build.0 = Release|Win32
+		{4AC99776-3638-49A3-9CA8-510EEC9B145D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4AC99776-3638-49A3-9CA8-510EEC9B145D}.Debug|Win32.Build.0 = Debug|Win32
+		{4AC99776-3638-49A3-9CA8-510EEC9B145D}.Release|Win32.ActiveCfg = Release|Win32
+		{4AC99776-3638-49A3-9CA8-510EEC9B145D}.Release|Win32.Build.0 = Release|Win32
+		{9F836E59-0763-41CB-BF25-2802C8DFD9A1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9F836E59-0763-41CB-BF25-2802C8DFD9A1}.Debug|Win32.Build.0 = Debug|Win32
+		{9F836E59-0763-41CB-BF25-2802C8DFD9A1}.Release|Win32.ActiveCfg = Release|Win32
+		{9F836E59-0763-41CB-BF25-2802C8DFD9A1}.Release|Win32.Build.0 = Release|Win32
+		{E092F50D-0449-462B-A2B4-2E9B57BC1F87}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E092F50D-0449-462B-A2B4-2E9B57BC1F87}.Debug|Win32.Build.0 = Debug|Win32
+		{E092F50D-0449-462B-A2B4-2E9B57BC1F87}.Release|Win32.ActiveCfg = Release|Win32
+		{E092F50D-0449-462B-A2B4-2E9B57BC1F87}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
